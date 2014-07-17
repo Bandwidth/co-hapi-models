@@ -1,0 +1,17 @@
+{
+  "name": "models"
+  "version": "0.0.0",
+  "description": "This is hapi plugins which adds collections `models` to each request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "co-hapi",
+    "co",
+    "module"
+  ],
+  "author": "avbel",
+  "license": "MIT"
+}
