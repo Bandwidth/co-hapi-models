@@ -1,5 +1,5 @@
 {
-  "name": "models"
+  "name": "models",
   "version": "0.0.0",
   "description": "This is hapi plugins which adds collections `models` to each request",
   "main": "index.js",
