@@ -7,7 +7,7 @@ module.exports.register = function*(plugin){
   });
   plugin.expose("models", models);
   plugin.method("models.get", function*(name){
-    if(!name){
+    if(typeof name !== "string"){
       return models;
     }
     else{
