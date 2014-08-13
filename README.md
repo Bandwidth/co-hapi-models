@@ -1,4 +1,4 @@
-models
+co-hapi-models
 ===========
 [![Build](https://travis-ci.org/bandwidthcom/co-hapi-models.png)](https://travis-ci.org/bandwidthcom/co-hapi-models)
 [![Dependencies](https://david-dm.org/bandwidthcom/co-hapi-models.png)](https://david-dm.org/bandwidthcom/co-hapi-models)
