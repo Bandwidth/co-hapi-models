@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATED⚠️ 
+
 co-hapi-models
 ===========
 [![Build](https://travis-ci.org/bandwidthcom/co-hapi-models.png)](https://travis-ci.org/bandwidthcom/co-hapi-models)
